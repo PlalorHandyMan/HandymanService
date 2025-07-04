@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<!-- A WEBSITE OF INFORMATION about Osaka created  by Jack O Mahony       -->
+<html>
+
+<head>
+	<link rel=" stylesheet   " type="text/css" href=" stylejom.css" />
+<link rel="icon" type="image/x-icon" href="https://cdn-icons-png.flaticon.com/512/181/181434.png">
+	<title>Osaka</title>
+	<a href="#top"></a>
+</head>
+
+<body>
+
+<div id="wrapper">
+		
+				<div id="header">
+					
+	<center>		<table>
+<td>			<h1> Welcome To Osaka!</h1></td>
+</table></center>
+
+
+				</div>
+			<br>	<br>
+			
+    
+<div id="content">
+
+
+	
+<table width="100%">
+        <tr>
+		<td align="center"><a href="   indexjom.html "> Home page    </a></td>
+		
+		<td align="center"><a href=" interestjom.html          ">   Interest  </a></td>
+		<td align="center"><a href=" galleryjom.html          ">    Gallery  </a></td>
+		<td align="center"><a href=" Eventsjom.html">    Events		</a></td>
+		<td align="center"><a href=" Contactjom.html">    Contact  </a></td>
+</table>
+<br>
+<h2>   A short intro on Osaka. </h2>
+<p>Nestled in the heart of Japan, Osaka stands as a vibrant metropolis that seamlessly blends rich history with contemporary flair. As the capital of Osaka Prefecture, this dynamic city has evolved from its medieval roots, symbolized by the iconic Osaka Castle, into a bustling urban landscape. Renowned for its welcoming locals, Osaka exudes a friendly atmosphere and a unique sense of humor. The city's culinary scene is a gastronomic adventure, offering savory delights like takoyaki and okonomiyaki. With a captivating mix of traditional festivals, modern architecture, and lively districts such as Namba and Umeda, Osaka invites visitors to explore its diverse and dynamic cultural tapestry. </p>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d104994.83738874074!2d135.4036368127625!3d34.67771154982309!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6000e6553406e2e1%3A0xc55bc16ee46a2fe7!2sOsaka%2C%20Japan!5e0!3m2!1sen!2sie!4v1704722001045!5m2!1sen!2sie" width="800" height="700" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+	    <p>Back to the
+      <a href="#top">top</a> of the page.
+    </p>
+
+
+		
+		<div id="footer">
+  
+						<div class="small"> 
+						This website is under copyright by Jo Bloggs and Co  	&#169;
+						</div>
+
+		</div>
+   
+</div>
+</body>
+</html>

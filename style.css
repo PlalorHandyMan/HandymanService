@@ -1,0 +1,192 @@
+body 
+{	
+	
+	background-image: url(Background.jpg);	
+
+	background-size: 1650px 300px;
+	background-repeat:no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	}
+
+	
+			
+h1 {
+	font-family: 							;
+	font-size:   35pt						;
+	font-style:             				;
+	font-weight: bold       				;
+	color:									;
+	text-align:    center
+}
+h2 {
+	font-family:  							;
+	font-size:         50               		;
+	font-weight:    bold                        ;
+	color:        white                     		;
+	text-align:                             ;
+}
+h3 {
+	font-family:  							;
+	font-size:        50px                		;
+	font-weight:    bold                      ;
+	color:        white                     		;
+	text-align:   center                          ;
+}
+h4 {
+	font-family:  							;
+	font-size:        85px                		;
+	font-weight:    bold                      ;
+	color:        Black                     		;
+	text-align:   center                          ;
+}
+h5 {
+	font-family:  							;
+	font-size:        30px                		;
+	font-weight:    bold                      ;
+	color:        white                     		;
+	text-align:   center                          ;
+	background-color: rgba(0, 0, 0, 0.75);
+}
+h6 {
+	font-family:  							;
+	font-size:        20px                		;
+	font-weight:    bold                      ;
+	color:        white                     		;
+	text-align:   center                          ;
+	background-color: rgba(0, 0, 0, 0.75);
+}
+
+
+form {
+	font-family:  							;
+	font-size:        25px                		;
+	font-weight:    bold                      ;
+	color:        white                     		;
+	text-align:   center                          ;
+}
+
+p {
+	font-family:    						;
+	font-size:      25px   		                ;
+	font-style:								;
+	color: 		white							;
+	text-align:    			center				;
+	background-color: rgba(210, 180, 140, 0.5); 
+	margin: 25px 50px 75px 100px;
+}
+
+}
+
+#wrapper {
+	padding: ;
+	width:     ;
+	margin-top: ;
+	margin-right: auto;
+	margin-bottom: 0px                ;
+	margin-left: auto                 ;
+	text-align:                       ;
+}
+#header {
+	margin-top:                          ;
+	margin-bottom:                       
+}
+	
+#content {
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom:            		    	;
+	text-align:center						;
+	padding-top: 0px;
+	padding-right: 
+	padding-bottom: 0px;
+	padding-left: 
+}
+
+#footer {
+	position: fixed						;
+	right: 43%;
+	text-align: 	center										;
+    bottom: 		0											;
+	border: 2px   solid #FFFFFFS		;	
+	background-color: White ;	
+}
+
+
+a:link{
+	font-family:									;
+	font-size:   16pt								;
+	font-style: 									;
+	font-weight: 									;
+	color:Blue										;
+}
+a:visited {
+	font-family: 						;
+	font-size: 							;
+	font-style: 						;
+	color:     red     					;
+}
+a:hover {
+	font-family: 							;
+	font-size: 								;
+	color:     grey     						;
+} 
+
+a:active
+{
+font-size: 							;
+font-weight: 						;
+color:								;
+}
+
+img{  
+ height: 200px;  
+ width: 350px;  
+ border:;  
+ }  
+	
+#left{    
+ float: left;  
+ }  
+ 
+ #right{    
+ float: right;  
+ }
+
+
+.small
+{
+	font-family:     		 	;
+	font-size:                  ;
+	text-align:  				;
+	color:           			;
+}
+
+
+
+table, th, td, th2 {
+  	border-collapse: seperate;
+	border-radius:6px;
+	font-weight: Bold;
+	margin-left: auto;
+	margin-right: auto;
+	border-spacing: 40px;
+	
+	
+}
+td {
+  	padding: 5px;
+	background-color: #FFFFFF;
+}
+th {
+	padding: 10px;
+	background-color: #FDDF95;
+	border: 20px;
+}
+th2 {
+	padding: 10px;
+	background-color: #FDDF95;
+	
+}
+
+

@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<!-- A WEBSITE OF INFORMATION about _______________________created  by _______        -->
+<html>
+
+<head>
+	<link rel=" stylesheet   " type="text/css" href=" ______________________" />
+
+	<title>___________________</title>
+</head>
+
+<body>
+
+<div id="wrapper">
+		
+				<div id="header">
+					<br>	<br>	<br>
+					<h1>    WELCOME __________________					      </h1>
+<!-- PUT IN A SUITABLE    h2    Heading     here       -->
+					<h2>      							 </h2>
+
+				</div>
+			<br>	<br>	<br> <br>	<br>	<br>	<br> <br>
+    
+<div id="content">
+
+
+<!--  This is the beginning of Table-->
+<!--  Complete the Table for the 2 Menu items  -->
+	
+<table width="100%">
+        <tr>
+		<td align="center"><a href="   indexXX.html ">  INDEX    </a></td>
+		
+		<td align="center"><a href=" _____________           ">    ________________  </a></td>
+		
+
+		</tr>
+</table>
+
+
+
+
+	
+							
+	<p> <img src=" _________________________" alt=" _______________       " > </p>
+<HR/>
+		
+		<p>
+		______________________________
+		______________________________
+		______________________________
+		______________________________
+		______________________________
+		</p>
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- YOUTube  Video   embedded here        -->
+
+			<br>	<br>	<br> <br>	<br>	
+
+
+<!-- GOOGLE Map embedded here        -->
+
+			<br>	<br>	<br> <br>	<br>	
+		
+
+		<center>
+								
+		<br>
+
+			 CONTACT US FOR MORE INFORMATION
+			<br>
+			
+<!-- Put in   FOUR   items into the FORM e.g. FirstName:       SurName:     Email:     Telephone:         -->
+			
+			<form>
+			
+			FirstName:									<br>
+			<input type="text">							<br>
+			
+			_____________		 						<br>
+			<input type="text">							<br>
+
+
+
+
+			</form>
+			</center>
+			<br>
+
+
+				</div>
+		
+		
+			
+		
+<!-- The FOOTER should have the copyright symbol        -->
+	
+		
+		<div id="footer">
+  
+						<div class="small"> 
+						This website is under copyright by Jo Bloggs and Co
+						</div>
+
+		</div>
+   
+</div>
+</body>
+</html>

@@ -1,0 +1,157 @@
+body 
+{	
+	
+	background-image: url(https://upload.wikimedia.org/wikipedia/commons/e/e4/Osaka_Castle_02bs3200.jpg);	
+
+	background-size: 1650px 300px;
+	background-repeat:no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	}
+
+	
+			
+h1 {
+	font-family: 							;
+	font-size:   35pt						;
+	font-style:             				;
+	font-weight: bold       				;
+	color:									;
+	text-align:    center
+}
+h2 {
+	font-family:  							;
+	font-size:         50               		;
+	font-weight:    bold                        ;
+	color:        white                     		;
+	text-align:                             ;
+}
+h3 {
+	font-family:  							;
+	font-size:        50px                		;
+	font-weight:    bold                      ;
+	color:        white                     		;
+	text-align:   center                          ;
+}
+h4 {
+	font-family:  							;
+	font-size:        85px                		;
+	font-weight:    bold                      ;
+	color:        Black                     		;
+	text-align:   center                          ;
+}
+
+p {
+	font-family:    						;
+	font-size:      25px   		                ;
+	font-style:								;
+	color: 		white							;
+	text-align:    			center				;
+	
+	margin: 25px 50px 75px 100px;
+}
+
+}
+
+#wrapper {
+	padding: ;
+	width:     ;
+	margin-top: ;
+	margin-right: auto;
+	margin-bottom: 0px                ;
+	margin-left: auto                 ;
+	text-align:                       ;
+}
+#header {
+	margin-top:                          ;
+	margin-bottom:                       ;
+}
+	
+#content {
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom:            		    	;
+	text-align:center						;
+	padding-top: 0px;
+	padding-right: 
+	padding-bottom: 0px;
+	padding-left: 
+}
+
+#footer {
+	position: fixed						;
+	right: 40%;
+	text-align: 	center										;
+    bottom: 		0											;
+	border: 2px   solid #FFFFFFS		;	
+	background-color: White ;	
+}
+
+
+a:link{
+	font-family:									;
+	font-size:   16pt								;
+	font-style: 									;
+	font-weight: 									;
+	color:Blue										;
+}
+a:visited {
+	font-family: 						;
+	font-size: 							;
+	font-style: 						;
+	color:     red     					;
+}
+a:hover {
+	font-family: 							;
+	font-size: 								;
+	color:     grey     						;
+} 
+
+a:active
+{
+font-size: 							;
+font-weight: 						;
+color:								;
+}
+
+img{  
+ height: 600px;  
+ width: 800px;  
+ border: 0px white;  
+ }  
+	
+#left{    
+ float: left;  
+ }  
+ 
+ #right{    
+ float: right;  
+ }
+
+
+.small
+{
+	font-family:     		 	;
+	font-size:                  ;
+	text-align:  				;
+	color:           			;
+}
+
+
+table, th, td, th2 {
+	border: 3px solid black;
+  	border-collapse: collapse;
+	font-weight: Bold;
+}
+td {
+  	padding: 10px;
+	background-color: #FFFFFF;
+}
+th {
+	padding: 10px;
+	background-color: #FDDF95;
+}
+th2 {
+	padding: 10px;
+	background-color: #FDDF95;
+}
